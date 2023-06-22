@@ -57,3 +57,42 @@ color: white;
 .botonModal{
   background: red;
 }
+
+@media only screen and (max-width: 600px) {
+  
+  .form-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 1rem;
+  }
+  input {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    border-radius: 5px;
+    margin: 0.5rem;
+    height: 2rem;
+  }
+  input::placeholder{
+    color: white;
+    font-size: small;
+    font-weight: bolds;
+  }
+  select {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    border-radius: 5px;
+    margin: 0.5rem;
+  }
+}
