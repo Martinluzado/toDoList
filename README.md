@@ -1,4 +1,4 @@
-[1](https://github.com/Martinluzado/todolist/assets/107727637/3042f6c4-522b-4ad9-997c-fc4bbbf51b81)!
-[2](https://github.com/Martinluzado/todolist/assets/107727637/270eb1e2-d272-4f28-be34-94bb23aabdcf)!
-![3](https://github.com/Martinluzado/todolist/assets/107727637/0d508097-d736-4338-a10d-ef7fd50a5858)
-![4](https://github.com/Martinluzado/todolist/assets/107727637/500de75a-e28d-4429-b016-190f4a69c9f0)
+![1](https://github.com/Martinluzado/todolist/assets/107727637/cda99e3a-97bc-424f-96f9-a1a79e0a902b)
+![2](https://github.com/Martinluzado/todolist/assets/107727637/780e8219-8599-4541-8b9e-853bdc37e6f8)
+![3](https://github.com/Martinluzado/todolist/assets/107727637/593d990e-be4c-48a5-812a-3c024de607e7)
+![4](https://github.com/Martinluzado/todolist/assets/107727637/5c08f2c1-2786-4f2c-9bd7-501c22bc9613)
